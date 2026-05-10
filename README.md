@@ -69,8 +69,8 @@ python main.py
 ## Token 消耗
 
 - 日均 API 请求：约 400 次
-- 日均 Token 消耗：约 200 万
-- 支持模型：MiMo-V2.5-Pro、Claude 系列、DeepSeek 系列
+- 日均 Token 消耗：约 2000 万
+- 支持模型：MiMo-V2.5-Pro、Claude 系列、DeepSeek 系列等
 
 ## License
 
